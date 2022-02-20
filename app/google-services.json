@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "288115163608",
+    "project_id": "redsocial-c0cfc",
+    "storage_bucket": "redsocial-c0cfc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288115163608:android:25b940c1ca67c93e04f2ad",
+        "android_client_info": {
+          "package_name": "com.views.redsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288115163608-rak7mqmlglsuv26pqi3nmsugfcejalr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.views.redsocial",
+            "certificate_hash": "0415d67d31921fd26def940938194a1d50667e3e"
+          }
+        },
+        {
+          "client_id": "288115163608-j15oj74kc2e7c5sk943sip3lrs26noev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmbvaemhqjE4hJ3d9iUY1See1AyVmG5_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288115163608-j15oj74kc2e7c5sk943sip3lrs26noev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
