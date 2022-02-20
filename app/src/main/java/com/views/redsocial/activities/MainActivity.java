@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
                 .requestEmail()
                 .build();
 
+        System.out.print("hola");
 
         mGoogleSignInClient = GoogleSignIn.getClient(this, gso);
 
